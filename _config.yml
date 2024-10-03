@@ -7,7 +7,7 @@
 # server process.
 livereload: true
 
-# Basic Site Settings
+# Basic Site Settingss
 locale                   : "en-US"
 title                    : "Brahim's HomePage"
 title_separator          : "-"
