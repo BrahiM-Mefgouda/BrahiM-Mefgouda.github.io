@@ -15,20 +15,32 @@ I am **Brahim Mefgouda** a Postdoctoral Fellow at [6G Research Center](https://w
 In addition to my academic background, I was a research visitor at the [James Watt School of Engineering](https://www.gla.ac.uk/schools/engineering/#:~:text=The%20James%20Watt%20School%20of,using%20engineering%20ingenuity%20and%20creativity.), [University of Glasgow](https://www.gla.ac.uk/), UK. I actively serve as a peer reviewer for several prestigious journals and conferences, including IEEE Letters and Communications, OJ-COMS, WCNC, VTC, and ICC, among others.
 
 
-## Research 
+During my M.Sc., I explored the potential of computer vision to enhance the behavior of humanoid robots. My Ph.D. research introduced a novel approach for Radio Access Technology (RAT) selection employing decision-making frameworks and machine learning to improve connectivity in 5G heterogeneous wireless networks. Additionally, I applied  metaheuristic algorithms to optimize handovers, ensuring seamless performance in dynamic environments.
 
-During my M.Sc., I explored the potential of **computer vision** to enhance the behavior of humanoid robots. My Ph.D. research introduced a novel approach for **Radio Access Technology (RAT) selection**, employing decision-making frameworks and machine learning to improve connectivity in 5G heterogeneous wireless networks. Additionally, I applied metaheuristic algorithms to optimize handovers, ensuring seamless performance in dynamic environments.
 
-Currently, my research focuses on advancing **next-generation wireless networks**, with a particular emphasis on **6G**. I aim to leverage **computer vision** and **generative AI** to drive innovation in network reliability, efficiency, and adaptability.
+
+## Research Interests
+
+- Integration of **Computer Vision** and **Generative AI** techniques to advance **Next-Generation Wireless Networks**, with a specific focus on **6G technologies**.
+- Application of **Generative AI** and diverse **Machine Learning algorithms** for enhancing the security of **IoT devices**.
+- Exploration of **AI-driven solutions** for optimizing network performance and reliability in **heterogeneous wireless environments**.
 
 
 
 # Recent Highlights
-- <span style="background-color: #FF8C00; color: white; padding: 2px 3px; border-radius: 3px; font-size: 16px;">
-   **Conferance**
-</span>&nbsp;  **September 2024** – Our paper on *A Lightweight PUF-Based IoT Authentication via Tandem Neural Networks & AutoEncoders* has been accepted at **GLOBECOM 2024**. We will present this work in **South Africa** in December.
+<h2>Recent Highlights</h2>
+<ul>
+  <li>
+    <span style="background-color: #FF8C00; color: white; padding: 2px 3px; border-radius: 3px; font-size: 16px;">
+      <strong>Conference</strong>
+    </span>&nbsp;
+    <strong>September 2024</strong> – Our paper on <em>A Lightweight PUF-Based IoT Authentication via Tandem Neural Networks & AutoEncoders</em> has been accepted at <strong>GLOBECOM 2024</strong>. We will present this work on <strong> 8–12 December 2024 in Cape Town, South Africa</strong>.
+  </li>
 
-
-- <span style="background-color: #1E90FF; color: white; padding: 2px 3px; border-radius: 3px; font-size: 16px;">
-   **Journal**
-</span>&nbsp;  **June 2024** – Our paper on [*A QoS-Aware Service-Driven Network Selection for HWNs Based on MARCOS and Utility Functions*](https://ieeexplore.ieee.org/document/10555376) was accepted and published in the **IEEE Open Journal of the Communications Society**.
+  <li>
+    <span style="background-color: #1E90FF; color: white; padding: 2px 3px; border-radius: 3px; font-size: 16px;">
+      <strong>Journal</strong>
+    </span>&nbsp;
+    <strong>June 2024</strong> – Our paper on <a href="https://ieeexplore.ieee.org/document/10555376"><em>A QoS-Aware Service-Driven Network Selection for HWNs Based on MARCOS and Utility Functions</em></a> was accepted and published in the <strong>IEEE Open Journal of the Communications Society</strong>.
+  </li>
+</ul>

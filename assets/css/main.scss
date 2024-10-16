@@ -39,3 +39,75 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+body {
+    zoom: 0.9; /* Zooms the entire page to 80% of its original size */
+  }
+
+  
+  #sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers the content horizontally */
+    justify-content: flex-start;
+    height: 100vh; /* Makes sure it fills the entire viewport */
+    padding-top: 440px; /* Optional padding for spacing */
+
+    margin-left: 00px;
+
+  }
+  
+  .sidebar__inner {
+    height: auto; /* Allow the inner content to adjust its height automatically */
+    display: block; /* Make sure it behaves as a block element */
+  }
+  
+  .author__avatar {
+    display: block;
+    margin-left: 10px;
+    margin-right: 00px;
+    width: 130px; /* Adjust this size if needed */
+    height: auto;
+    border-radius: 40%; /* Optional: if you want to keep the circular style */
+  }
+  
+  
+  .sidebar__footer {
+    flex-shrink: 0;
+    padding-top: 20px; /* Ensure spacing between content and footer */
+    padding-bottom: 20px; /* Add some padding at the bottom */
+  }
+  
+  
+
+ 
+
+  @media (min-width: 1024px) {
+  .layout--single .page {
+    width: calc(100% - 250px); /* Adjust based on sidebar width */
+    float: right;
+  }
+}
+
+/* Specific styles for the publications page */
+
+.archive__item {
+    width: 120%; /* Ensure the entire container takes up the full width */
+  }
+  
+  .archive__item-title {
+    width: 100%; /* Title takes up full width */
+    display: block;
+  }
+  
+  .archive__item-excerpt {
+    width: 1050%; /* Text content takes up 50% of the width */
+    display: block;
+  }
+  
+  .archive__item-excerpt p {
+    width: 100%; /* Ensure the inner paragraph also follows the 50% rule */
+    display: inline-block;
+  }
+  
+  
